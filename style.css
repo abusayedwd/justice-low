@@ -1,0 +1,12 @@
+
+
+.top-banner{
+        background: url('images/banner.png'); background-position: center;
+        height: 720px;
+        background-size:cover;
+        background-repeat: no-repeat;
+    }
+    .ls-btn-primary, .ls-btn-primary:hover{
+        color:#fff;
+        background-color: #B68C5A;
+    }
